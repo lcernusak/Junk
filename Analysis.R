@@ -5,3 +5,4 @@ median(x)
 plot(x, y) # plot
 summary(x)
 mean(x)
+length(x)
